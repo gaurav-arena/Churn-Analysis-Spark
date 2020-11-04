@@ -1,2 +1,2 @@
-# Churn-Analysis-Spark-
+# Churn-Analysis-Spark
 This notebook is about building an end to end spark ML pipeline to perform customer churn analysis on the Databricks platform. So initially we will take a dataset and do some some exploratory data analysis and data preprocessing and based on the analysis we will perform some feature engineering. Then we will train a model to predict customer churn and evaluate it's performance.
